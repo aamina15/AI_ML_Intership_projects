@@ -68,4 +68,4 @@ if uploaded_file is not None:
     # Display Result
     # -------------------------
     st.success(f"Prediction: **{label}**")
-    st.write(f"Confidence: **{confidence:.2f}%**")
+    st.write(f"Confidence: **{confidence:.2f}%**")%**")
