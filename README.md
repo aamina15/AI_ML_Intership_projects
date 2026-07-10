@@ -7,3 +7,5 @@ PROJECT 5 click here -https://genderclassification-hburyfommhcgzmjyq2ycapp.strea
 PROJECT 6 Click Here-https://kmeansirisproject-ufwxbdh6c5urokfqpqfiqf.streamlit.app/
 
 PROJECT 7 Click here-https://cnnmalefemale-a7sqys6dwfuqbdcqsksvji.streamlit.app/
+
+PROJECT 8 Click Here-https://knnproject8-bedeziyypsk2qjanfqhwja.streamlit.app/
