@@ -17,3 +17,5 @@ PROJECT 8 Click Here-https://knnproject8-bedeziyypsk2qjanfqhwja.streamlit.app/
 PROJECT 9 Click Here -https://eyepredictionsnn-bemzw97ukdccpecr42ti9z.streamlit.app/
 
 PROJECT 10 Click Here-https://chatbotwashingmachine-t4zxrilzy3ljwsptfez6gu.streamlit.app/
+
+PROJECT 11 Click Here-https://analyzingnetflixmovie-5q6pa7nsk5y3vuuarqwbgd.streamlit.app/
